@@ -1,2 +1,2 @@
 # Algol60
-Algol 60 programs for the Electrologica X1
+Collection of Algol 60 programs for the Electrologica X1
